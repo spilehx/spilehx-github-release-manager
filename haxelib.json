@@ -1,0 +1,12 @@
+{
+  "name": "spilehx-github-release-manager",
+  "url": "https://github.com/spilehx/spilehx-github-release-manager",
+  "license": "MIT",
+  "tags": ["haxe", "framework", "utils"],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "contributors": ["spilehx"],
+  "releasenote": "initial.",
+  "dependencies": {}
+}
